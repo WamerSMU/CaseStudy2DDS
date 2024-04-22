@@ -20,6 +20,7 @@ Salary Trends: The analysis highlighted a strong correlation between job level a
 Predictive Modeling: Utilizing Naive Bayes and linear regression models, we were able to predict attrition and salary outcomes with reasonable accuracy. These models help in identifying at-risk employees and ensuring competitive salary offers.
 
 Applications and Tools:
+Youtube: https://www.youtube.com/watch?v=1hMAp3Fq93E
 Website:https://wamersmu.github.io/Waleed.github.io/
 
 ```{r cars}
