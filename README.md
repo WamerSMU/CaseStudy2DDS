@@ -1,6 +1,6 @@
 # CaseStudy2DDS
 Youtube Link: https://www.youtube.com/watch?v=1hMAp3Fq93E
-To run shiny app, runn this code:
+To run shiny app visit: https://waleedamer.shinyapps.io/casestudy2dds/ , or run this code:
 library(tidyverse) 
 library(dplyr) 
 library(GGally) 
